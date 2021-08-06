@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on discord bot called **PenguinBot**
 - 🌱 I’m currently learning  **discord.js and javascript**
-- ⚡ Fun fact **Im coding on Laptop 😆**
+- ⚡ Fun fact **Im coding on Laptop**
 
 **Languages and Tools:** &nbsp;
 <p align="center">
