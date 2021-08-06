@@ -12,5 +12,5 @@ Profile Visit:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheWarrior221&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheWarrior221&show_icons=true&theme=radical)
+<img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheWarrior221&show_icons=true&theme=Gradient]
 ">
