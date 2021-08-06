@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 Profile Visit:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheWarrior221&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheWarrior221&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheWarrior221&show_icons=true&theme=radical)
 ">
