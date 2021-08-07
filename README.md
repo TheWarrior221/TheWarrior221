@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5" /> 
 <img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheWarrior221&layout=compact)](https://github.com/TheWarrior221)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheWarrior221)](https://github.com/TheWarrior221)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheWarrior221&show_icons=true&locale=en&layout=compact" alt="TheWarrior221" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheWarrior221&show_icons=true&locale=en" alt="TheWarrior221" /></p>
 
 
