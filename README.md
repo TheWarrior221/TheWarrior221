@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on discord bot called **PenguinBot**
 - 🌱 I’m currently learning  **discord.js and javascript**
-- ⚡ Fun fact ** Im Single **
+- ⚡ Fun fact **Im Single**
 
 **Languages and Tools:** &nbsp;
 <p align="center">
